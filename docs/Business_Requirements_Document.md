@@ -1,7 +1,7 @@
 # Business Requirements Document (BRD)
 **Project Name:** Loan Process Optimisation  
 **Version:** 1.0  
-**Date:** 2025-12-12  
+**Date:** 2025-12-10  
 **Author:** Nisarg Patel  
 
 ---
@@ -53,4 +53,4 @@ The project includes a Python-based analysis demonstrating the feasibility and i
 This document serves as the foundation for the technical implementation and process redesign.
 
 **Approver Name:** Nisarg Patel 
-**Date:** 3rd Jan 2026
+**Date:** 2026-01-03
