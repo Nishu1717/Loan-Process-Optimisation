@@ -70,3 +70,14 @@ This will generate visualizations in the `visualizations/` directory.
 
 ## Author
 Nisarg Patel
+
+## Visualizations
+
+### Cycle Time Histogram
+![Cycle Time Histogram](visualizations/cycle_time_histogram.png)
+
+### Wait Time Heatmap
+![Wait Time Heatmap](visualizations/wait_time_heatmap.png)
+
+### Validation Ping-Pong
+![Validation Ping-Pong](visualizations/validation_pingpong.png)
